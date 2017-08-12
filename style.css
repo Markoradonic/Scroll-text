@@ -1,0 +1,14 @@
+
+
+#scroll {
+    width: 400px;
+    height: 200px;
+    border: solid 1px gray;
+    border-radius: 10px;
+    background: orange;
+    margin: 200px;
+    font-size: 3em;
+    text-align: center;
+    line-height: 200px;
+    
+}

@@ -1,0 +1,4 @@
++= - dodajemo svaki put...
+shift(); ubacujemo prvi element ovag naseg texta i stavljamo ga u nas div
+
+funkcija start - sve dok je (stext) njegova velicina veca od nule dodavacemo po jedno slovo, a to cemo uraditi pomocu varijbale loop. loop varijabli smo dodelili funkciju setTimeout(); i reki da na svkih 200 ms pozove nasu start funkciju.
